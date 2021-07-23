@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 public class FirstTest {
     @Test
     void firstTest(){
-        System.out.println("Directory from github editor!!!");
+        System.out.println("firstTest!!!");
         Selenide.open("http://ya.ru ");
     }
 }

@@ -8,6 +8,5 @@ public class FirstTest {
     void firstTest(){
         System.out.println("Directory from github editor!!!");
         Selenide.open("http://ya.ru ");
-
     }
 }
